@@ -1,0 +1,30 @@
+#game div {
+	border: 1px solid black;
+	width: 15%;
+	height: 200px;
+	margin: 30px;
+	display: inline-block;
+}
+
+hr {
+	margin: 50px;
+}
+
+button {
+	padding: 10px 20px;
+	font-size: 50px;
+	border-radius: 20px;
+	background-color: rgb(153, 28, 184);
+	color: rgb(255, 255, 255);
+	margin: 50px auto;
+	display: block;
+}
+
+button:focus {
+	outline: none;
+}
+
+button:hover {
+	cursor: pointer;
+	background-color: #b622b6;
+}
