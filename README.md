@@ -1,2 +1,2 @@
-# Memory-Game
+# MemoryGame
 Memory Game Exercise
